@@ -82,7 +82,7 @@ body {
     /* Set a specific height */
     min-height: 80vw;
     width: 100%;
-    padding: 10px;
+    padding: 10px; 
   
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
@@ -98,13 +98,6 @@ body {
     background-position: top;
 }
 
-
-.parallax1 h1 {
-    background: -webkit-linear-gradient(rgb(255, 255, 255), rgb(82, 9, 9));
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-}
-
 .parallax{
     overflow: hidden;
     display: flex;
@@ -118,6 +111,11 @@ body {
 
 .happyBirthday {
     font-family: "Happy Birthday";
+}
+
+.Roboto {
+    font-family: 'Roboto Mono', monospace;
+    font-weight: bold;
 }
 
 
@@ -272,8 +270,69 @@ body {
 }
 
 .parallax24 {
-    background-image: url("./assets/IMG-20221031-WA0027.jpg");
+    background-image: url("./assets/IMG-20221101-WA0088.jpg");
     min-height: 100vw;
     width: 100%;
     background-position: center;
 }
+
+.parallax25 {
+    background-image: url("./assets/IMG-20221103-WA0006.jpeg");
+    min-height: 100vw;
+    width: 100%;
+    background-position: center;
+}
+
+.parallax26 {
+    background-image: url("./assets/IMG_20220321_100424.jpg");
+    min-height: 100vw;
+    width: 100%;
+    background-position: center;
+}
+
+.parallax27 {
+    background-image: url("./assets/IMG_20220217_085345.jpg");
+    min-height: 100vw;
+    width: 100%;
+    background-position: center;
+}
+
+.parallax28 {
+    background-image: url("./assets/IMG_20220214_181445_245.jpg");
+    min-height: 100vw;
+    width: 100%;
+    background-position: center;
+}
+
+.parallax29 {
+    background-image: url("./assets/IMG_20220321_000030.jpg");
+    min-height: 100vw;
+    width: 100%;
+    background-position: center;
+}
+
+.parallax30 {
+    background-image: url("./assets/IMG_20220320_232038.jpg");
+    min-height: 100vw;
+    width: 100%;
+    background-position: center;
+}
+
+.parallax31 {
+    background-image: url("./assets/e45ebbc493e7c4cfc58a944582767c19.png");
+    min-height: 100vw;
+    width: 100%;
+    background-position: center;
+}
+
+
+.parallax33 {
+    background-image: url("./assets/IMG_20220207_115538_480.jpg");
+    min-height: 100vw;
+    width: 100%;
+    background-position: top;
+}
+
+
+
+
